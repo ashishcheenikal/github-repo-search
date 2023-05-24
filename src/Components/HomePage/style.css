@@ -1,0 +1,31 @@
+.searchBarTitle{
+    color: white;
+}
+
+.container{
+    width: 100vh;
+    height: 100vh;
+}
+
+.searchArea{
+    margin-top: 10%;
+}
+
+.searchBarTitle{
+    width: 122%;
+}
+
+.searchBox{
+display: flex;
+margin-top: 5%;
+margin-left: 15%;
+}
+
+.searchBoxInput{
+height: 50px;
+width: 500px;
+}
+
+.searchBtn{
+    width: 75px;
+}

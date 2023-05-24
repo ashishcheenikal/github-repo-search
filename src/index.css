@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://wallpapercave.com/dwp1x/wp3082278.jpg");
+  background-size: cover;
+  background-color: #cccccc;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
